@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary_blue">#1C2E46</color>
+    <color name="primary_darker">#152335</color>
+    <color name="primary_orange">#FF9800</color>
+    <color name="primary_mint">#70CEAD</color>
+    <color name="primary_light_grey">#B5B9BD</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="error">#F44336</color>
+    <color name="input_background">#F5F5F5</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="received_message_background">#090D16</color>
+
+    <color name="primary0">#46467A</color>
+    <color name="primary1">#7766C6</color>
+    <color name="primary2">#E0DFFD</color>
+    <color name="primary3">#FFC212</color>
+    <color name="primary4">#F9B0C3</color>
+
+    <color name="clear">#AE3127</color>
+
+    <color name="peach">#FAEAE3</color>
+    <color name="blossom">#ee9e97</color>
+    <color name="sunray">#e38e31</color>
+    <color name="redhot">#ef472c</color>
+    <color name="teal">#45b4ae</color>
+    <color name="peacock">#2a9da0</color>
+    <color name="midnight">#181617</color>
+
+</resources>
